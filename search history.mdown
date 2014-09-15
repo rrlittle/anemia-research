@@ -1,0 +1,43 @@
+##List of searches
+- Anemia detection survey
+	+ .gov guidelines
+	+ http://www.nhlbi.nih.gov/health/health-topics/topics/anemia/diagnosis.html
+		* CBC
+		* checks hemoglobin and hematocrit
+		* MCV
+			- If you test likely for anemia other tests
+				+ hemoglobin electorphoresis
+					* different tyoes of hemoglobin and can help diagnose types of anemia
+				+ reticulocyte count
+					* measures number of young blood cells. bone marrow production rate checks
+					* ?diagnose blood loss
+				+ serum iron and ferritin tests
+				+ transferrin level and total iron binding capacity tests also measure iron levels
+	+ aplastic anemia
+		* http://emedicine.medscape.com/article/198759-overview
+		* Essential update: FDA approves thrombopoietin receptor agonist for second-line treatment of severe aplastic anemia
+			- http://emedicine.medscape.com/article/198759-clinical
+			- clinical presentation
+		* aplastic anemia is a syndrome of bone marrow failure characterized by peripheral pancytopenia and marrow hypoplasia
+		* Although the anemia is often normocytic, mild macrocytosis can also be observed in association with stress erythropoiesis and elevated fetal hemoglobin levels.
+		* Testing includes
+			- CBC
+			- Blood smears
+			- Hemoglobin electrophoresis
+			- Biochmical rofile
+			- flourescence-activated cell sorter profiling
+			- fluorescent-lebeld inactive toxin aerolysin disease
+			- kidney. liver function studies
+			- transaminase, bilirubn, and lactic dehydrogenase levels
+			- histocompatibility testing
+			- diepoxybutane incubation
+			- serology for hepatitis and other viral entities
+		* severe aplactic anemia is an emergency condition
+	+  haemoglobin.pdf
+		* todo item <!-- TODO: @read this report http://www.who.int/vmnis/indicators/haemoglobin.pdf -->
+		* WHO report on assemesment of severity for anemia
+			- didn't get a chance to read it 
+	+ ASH paper of diagnosis of aplastic anemia
+		* <!-- TODO: @read this http://asheducationbook.hematologylibrary.org/content/2011/1/76.full -->
+		* didn't get to read this
+

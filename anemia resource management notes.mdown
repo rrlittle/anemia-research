@@ -1,0 +1,99 @@
+#Anemia Presentation
+_Monday sept 15_
+
+##anemia detection in Health Services 
+>_.Gov source_
+
+###Current Approaches to anemia detection
+- individual screening
+- Population surveys
+
+	For each 2 types of assements are done
+- Making a diagnosis
+- monitoring effects of interventions `Less relevant`
+
+__Dianostics__
+
+- Vary by country and even setting within country
+		* NOTE: in resource scarce locations most common are:
+			- Hemoglobin
+			- hematocrit
+		* Biochemical tests (Such as __Serum Ferritin and Transferrin__ are unpractical due to complexity)
+			- This __indicates__ that biochemical tests are perhaps better. __AND__ that there exist chemical markers
+				+ Microfludics?
+			- <!-- TODO: look up citation. No inline citations -->
+- Choice of methods vary by degree of anemia encountered
+			- degree?
+	+ individual case management requires descrimitation between 10g/L of hemoglobin
+		* recommended by `WHO safe Motherhood guidelines`
+*	include screening in application? 
+	-	surveys used for nationwide prevalence numbers
+	*	type of anemia
+	*	locations
+
+>__Distinguishing iron-deficiency from other factors__	
+>>	see page 1	
+
+__Resource limited settings__
+
+- at community level
+	+ general screening using clinical signs
+	+ filter paper method
+		* ???????
+- RESOURCE SCARCE SETTINGS
+- LOW COST - EASE OF USE - SCREENING METHODS
+	+ copper sulfate
+		* gives ranges for hemoglobin levels
+- MIXED RESOURCE SETTING
+- LOW COST -SCRRENING METHODS
+	- quantative hemoglobin and hematocrit testing
+	- use first of general testing followed by quantative tests
+		+ Portable hemaglobinometers
+		+ hematocrit by centrifuge
+* RESOURCE ADAQUATE SETTINGS
+	- biochemical tests
+		+ accuracy
+		+ precision
+		+ photometric methods
+
+
+#Methods for testing anemia
+qualtitative (l)/quantitative (n)
+|              name             | l/n |   time  |  cost  |
+|-------------------------------|-----|---------|--------|
+| clinical exam for anemia      | l   | 2min    | -      |
+| filter paper color comparison | l   | 1min    | -      |
+| copper sulfate                | l   | 1min    | low    |
+| hct/centrifuge                | n   | 4       | med    |
+| lovibond                      | n   | 5       | low    |
+| sahli                         | n   | 8       | med    |
+| BMS/Gre Wedge                 | n   | 2       | med    |
+| HemoCue                       | n   | 30sec   | high   |
+| HbCN Photometer               | n   | 5-20min | medium |
+| HbOPhotometer                 | n   | 5-20min | medium |
+
+ - all reported tests require blood sample
+ - these use whole blood (no diluting)
+ 	+ filter paper
+ 	+ copper sulfate
+ 	+ heatocrit/centrifuge
+ 	+ lovibond
+ - uses lysed blood
+ 	+ grey wedge
+ 	+ BMS/Hemoglobinometer
+ 	+ HemoCue
+ - Dilutional 
+ 	+ color intesity of new compound is proprtional to hemoglobin concentrarion
+ 		* Visual match
+ 			- sahli
+ 			- lovibond
+ 		* photoelectric match
+ 			- photometry/colrimetry
+ 			- spectophotometry
+
+__Gives descriptions of each technique__
+__Includes specificity, error rate etcetera__
+__Includes list of refs for each device__
+
+
+
